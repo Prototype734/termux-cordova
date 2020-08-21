@@ -50,7 +50,7 @@ Add android platform with
 
 I have make a bash script for build your app, download it from github with
 
-`curl -o build.bash`
+`curl -o build.bash https://github.com/Prototype734/termux-cordova/raw/master/build.bash`
 
 And now run this script inside your project with
 
