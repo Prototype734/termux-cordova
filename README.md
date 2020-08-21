@@ -60,4 +60,8 @@ Wait the end of the process !
 
 After that, look in your download directory you will find a buildAPKs directory with your apk file !
 
+Now you can create a lot of cordova app and try to add plugins !
+
 > Successfully tested on Huawei y5 2018 aarch64
+
+![screen](https://raw.githubusercontent.com/Prototype734/termux-cordova/master/screen.png)
